@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pure-love-true-feeling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Pure Love True Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pure-love-true-feeling/) |
+| **Get License** | [Request Licensing for Pure Love True Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pure-love-true-feeling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2225)
 
 ---
 
